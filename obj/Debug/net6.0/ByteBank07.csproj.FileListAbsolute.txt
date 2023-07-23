@@ -1,0 +1,15 @@
+C:\gabi\Code\C# 2\ByteBank07\bin\Debug\net6.0\ByteBank07.exe
+C:\gabi\Code\C# 2\ByteBank07\bin\Debug\net6.0\ByteBank07.deps.json
+C:\gabi\Code\C# 2\ByteBank07\bin\Debug\net6.0\ByteBank07.runtimeconfig.json
+C:\gabi\Code\C# 2\ByteBank07\bin\Debug\net6.0\ByteBank07.dll
+C:\gabi\Code\C# 2\ByteBank07\bin\Debug\net6.0\ByteBank07.pdb
+C:\gabi\Code\C# 2\ByteBank07\obj\Debug\net6.0\ByteBank07.csproj.AssemblyReference.cache
+C:\gabi\Code\C# 2\ByteBank07\obj\Debug\net6.0\ByteBank07.GeneratedMSBuildEditorConfig.editorconfig
+C:\gabi\Code\C# 2\ByteBank07\obj\Debug\net6.0\ByteBank07.AssemblyInfoInputs.cache
+C:\gabi\Code\C# 2\ByteBank07\obj\Debug\net6.0\ByteBank07.AssemblyInfo.cs
+C:\gabi\Code\C# 2\ByteBank07\obj\Debug\net6.0\ByteBank07.csproj.CoreCompileInputs.cache
+C:\gabi\Code\C# 2\ByteBank07\obj\Debug\net6.0\ByteBank07.dll
+C:\gabi\Code\C# 2\ByteBank07\obj\Debug\net6.0\refint\ByteBank07.dll
+C:\gabi\Code\C# 2\ByteBank07\obj\Debug\net6.0\ByteBank07.pdb
+C:\gabi\Code\C# 2\ByteBank07\obj\Debug\net6.0\ByteBank07.genruntimeconfig.cache
+C:\gabi\Code\C# 2\ByteBank07\obj\Debug\net6.0\ref\ByteBank07.dll

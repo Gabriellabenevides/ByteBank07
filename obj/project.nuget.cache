@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8SV0P/CaObtx9KSDRoBtl6FaTra3INU1JRF03VinTpkpXGNN32ELS1/36BLPrHGRIZhjp53/SpeGl1cuxykkg==",
+  "success": true,
+  "projectFilePath": "C:\\gabi\\Code\\C# 2\\ByteBank07\\ByteBank07.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guguinho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\guguinho\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\guguinho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\guguinho\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.16\\microsoft.netcore.app.host.win-x86.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
